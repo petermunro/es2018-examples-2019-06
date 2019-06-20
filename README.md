@@ -1,3 +1,29 @@
+## Sample Project for ES2018 Class
+
+Sample project to show:
+
+- use of named & default exports, and how to import them
+- how to import a JSON data file
+
+See `src/App.js` for details.
+
+## Getting Started with `create-react-app`
+
+To get started with your own React project, do:
+
+```
+
+npm install create-react-app -g
+
+create-react-app my-app
+cd my-app
+npm start
+```
+
+This is the traditional way. See the React [documentation](https://facebook.github.io/create-react-app/docs/getting-started) for how to use `npx`.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
